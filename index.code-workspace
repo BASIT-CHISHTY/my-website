@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "index",
+			"path": "../index"
+		},
+		{
+			"name": "js",
+			"path": "../js"
+		},
+		{
+			"name": "my web",
+			"path": "G:/my web"
+		},
+		{
+			"name": "website.com",
+			"path": "G:/website.com"
+		},
+		{
+			"path": "../website/main website"
+		},
+		{
+			"path": "../boya"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "marvil"
+	}
+}
